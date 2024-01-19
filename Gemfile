@@ -12,4 +12,4 @@ gem "redis", "~> 3.3"
 
 gem "pg", "= 1.4.6"
 
-gem "nokogiri", "= 1.14.2"
+gem "nokogiri", "1.14.3"
